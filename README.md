@@ -13,6 +13,6 @@
 <div class="markdown-heading" dir="auto">
     <h2 class="heading-element">Some tools I have used
 </div>
-<p>During my experience in university and my professional career, I used a lot of different languages and technologies. This technologies are exposed here.
+<p>During my experience in university and my professional career, I used a lot of different languages and technologies. This technologies are exposed here.</p>
 
 <i class="devicon-anaconda-original colored"></i>
