@@ -4,7 +4,7 @@
 </p>
 <div style="text-align: center; ">
     <div>
-        <img style="display: block; margin: auto; "alt="Animated gif" src="https://dayatech.us/images/resource/website-development.gif" />
+        <img align="center" alt="Animated gif" src="https://dayatech.us/images/resource/website-development.gif" />
     </div>
 </div>
 <div class="mardown-heading" dir="auto">
