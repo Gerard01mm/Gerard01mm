@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<div style="text-align: center;">
-    <img src="https://dayatech.us/images/resource/website-development.gif" />
+<div style="text-align: center; ">
+    <img style="display: block; margin: auto; "alt="Animated gif" src="https://dayatech.us/images/resource/website-development.gif" />
 </div>
 <div class="mardown-heading" dir="auto">
     <h2 class="heading-element">About me and my interests</h2>
@@ -22,9 +22,8 @@
         <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="50">
     </a>
 </div>
-
 <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element">Some languages and tools I have used</h2>
+    <h2 class="heading-element">Some languages and tools I have used 🧰</h2>
 </div>
 <div>
     <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" />
