@@ -3,7 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <div style="text-align: center; ">
-    <img style="display: block; margin: auto; "alt="Animated gif" src="https://dayatech.us/images/resource/website-development.gif" />
+    <div>
+        <img style="display: block; margin: auto; "alt="Animated gif" src="https://dayatech.us/images/resource/website-development.gif" />
+    </div>
 </div>
 <div class="mardown-heading" dir="auto">
     <h2 class="heading-element">About me and my interests</h2>
