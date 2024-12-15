@@ -12,7 +12,7 @@
 <p>I have interest in software Development, specially in Web applications development, but also I have a great interest in Cybersecurity.</p>
 <p>Currently I am working at Win Systems, developing web applications using differents technologies such as .NET Framework, Javascript and JQuery, among others, but also managing SQL Server databases.</p>
 <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element">Contact</h2>
+    <h2 class="heading-element">Contact me 💬</h2>
 </div>
 <div id="contactLabels">
     <a href="https://www.linkedin.com/in/gerard-m-791a35239/" title="Take a look to my LinkedIn Profile!">  
