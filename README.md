@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/gerard-m-791a35239/" title="Take a look to my LinkedIn Profile!">  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" />    
     </a>
-    <a href="mailto:gerardinfo281001@gmail.com" title="Reach me by sending me an email!">
+    <a href="mailto:gerardinfo281001@gmail.com" title="Reach me by sending an email!">
         <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="50">
     </a>
 </div>
